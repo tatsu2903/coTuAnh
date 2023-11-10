@@ -92,16 +92,17 @@ canvas {
     position: absolute;
     top: 100%;
     left: 46.3%;
-    background-color: #52608F;
+    background-color: #9cebd5;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 60px;
     display: inline-block;
     border: 1.5px solid #417505;
     letter-spacing: 1px;
     text-shadow: 0;
     color: white;
     size: 100px;
-    width: bold;
+    width: 176px;
+    height: 50px;
 }
 @media (max-width: 991px) {
     .card {
